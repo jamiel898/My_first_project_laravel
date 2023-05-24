@@ -29,7 +29,8 @@
                    </li>
                    <li>
                    <a  href="{{ route('login') }}">LOGIN</a> 
-                   </li> 
+                   </li>
+                  
                    
                </ul>
            </nav>
@@ -64,7 +65,8 @@
       <label class="checkbox">
         <input type="checkbox" value="remember-me" id="rememberMe" name="rememberMe"> Remember me
       </label>
-      <button class="btn btn-lg btn-primary btn-block" type="submit">Login</button>   
+      <button class="btn btn-lg btn-primary btn-block" type="submit">Login</button>  
+      <a href="register"> <p> Don't Have an account? Register </p></a>  
     </form>
   </div>
 

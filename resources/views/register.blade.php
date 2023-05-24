@@ -28,6 +28,7 @@
     <input type="text" placeholder="Username" name="un" />
     <input type="password" placeholder="Password" name="pw" />
     <button> Sign in </button>
-    <a href="#"> <p> Have an account? Login </p></a>
+    <a href="login"> <p> Have an account? Login </p></a>
   </div>
 </div>
+@endsection
